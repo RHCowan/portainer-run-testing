@@ -8,7 +8,7 @@ metadata:
     managed-by: portainer-run
   annotations:
     portainer-run/deploy-type: vibe
-    portainer-run/git-target-id: 3b6c1855-1fd3-451f-b43a-da1bd4eccb7c
+    portainer-run/git-target-id: 6012e1ec-4980-4ea7-af2d-e96e25b2a38b
     portainer-run/git-branch: main
     portainer-run/git-path: local/portainer-addon-portainer-run/hello-portainer-run.yaml
     portainer-run/vibe-source-path: local/portainer-addon-portainer-run/hello-portainer-run/src
@@ -29,7 +29,7 @@ metadata:
     managed-by: portainer-run
   annotations:
     portainer-run/deploy-type: vibe
-    portainer-run/git-target-id: 3b6c1855-1fd3-451f-b43a-da1bd4eccb7c
+    portainer-run/git-target-id: 6012e1ec-4980-4ea7-af2d-e96e25b2a38b
     portainer-run/git-branch: main
     portainer-run/git-path: local/portainer-addon-portainer-run/hello-portainer-run.yaml
     portainer-run/vibe-source-path: local/portainer-addon-portainer-run/hello-portainer-run/src
@@ -183,7 +183,7 @@ metadata:
     managed-by: portainer-run
   annotations:
     portainer-run/deploy-type: vibe
-    portainer-run/git-target-id: 3b6c1855-1fd3-451f-b43a-da1bd4eccb7c
+    portainer-run/git-target-id: 6012e1ec-4980-4ea7-af2d-e96e25b2a38b
     portainer-run/git-branch: main
     portainer-run/git-path: local/portainer-addon-portainer-run/hello-portainer-run.yaml
     portainer-run/vibe-source-path: local/portainer-addon-portainer-run/hello-portainer-run/src
