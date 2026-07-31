@@ -214,7 +214,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - host: hello-portainer-run.localtest.me:8080
+    - host: hello-portainer-run.localtest.me
       http:
         paths:
           - path: /
